@@ -4,7 +4,8 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Alan Bittencourt</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlanBittencurtDev&color=blue" alt="Profile views" /> 
 </p>
-<h3>Developer from Brazil</h3>
+<h3>Developer from Brazil 🇧🇷:</h3>
+
 ![octo cat](img/5538021.webp)
 <div  align="left" heidth="100px" width="100px"/>
 
