@@ -9,7 +9,7 @@
 ![octo cat](img/5538021.webp)
 <div  align="left" heidth="100px" width="100px"/>
 
-* ### 🔥Programador de 12 anos
+* ### 🔥Programador de 13 anos
 * ### ⌨️ Gosto muito de programar e estou aprendo mais a cada dia
 * ### 🧠 Sei que ainda tenho muito a aprender
 
